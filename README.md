@@ -52,13 +52,7 @@ The analysis is intended for educational purposes and demonstrates data handling
 	"datasets"
 	"Python_code"
 3) On the datasets folder, extract all of the dataset in there.
-4) On the Python_code, extract these python codes:
-	1)"analysis.py"
-	2)"app.py"
-	3)"cleaning.py"
-	4)"data_loader.py"
-	5)"utils.py"
-	6)"visuals.py"
+4) On the Python_code, extract all of the python codes.
 
 5) Edit app.py
 	> modify the BASE_DATA_PATH
