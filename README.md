@@ -91,11 +91,11 @@ The code produces:
 ---
 
 ## **Sources**
-https://www.kaggle.com/PromptCloudHQ/toy-products-on-amazon
-https://www.kaggle.com/hapahacks1/lego-database-2020
-https://www.kaggle.com/rohanbarghare/lego-collector
-https://trends.google.com/trends/explore?date=today%205-y&q=LEGO
-https://lionbridge.ai/datasets/24-best-ecommerce-retail-datasets-for-machine-learning/
+1) https://www.kaggle.com/PromptCloudHQ/toy-products-on-amazon
+2) https://www.kaggle.com/hapahacks1/lego-database-2020
+3) https://www.kaggle.com/rohanbarghare/lego-collector
+4) https://trends.google.com/trends/explore?date=today%205-y&q=LEGO
+5) https://lionbridge.ai/datasets/24-best-ecommerce-retail-datasets-for-machine-learning/
 
 ---
 
