@@ -37,6 +37,19 @@ The analysis is intended for educational purposes and demonstrates data handling
 
 ---
 
+## **Requirements**
+
+1) You need these modules:
+	> pandas
+	> numpy
+	> matplotlib
+	Note: To install this, you can open cmd and run this code "install pandas numpy matplotlib"
+
+2) Use python 3.14.0
+	> You can download it from here https://www.python.org/downloads/release/python-3140/
+
+---
+
 ## **Instructions to Run**
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com/).  
@@ -44,6 +57,29 @@ The analysis is intended for educational purposes and demonstrates data handling
 3. Run all cells (**Runtime → Run all**) to generate outputs and charts.  
 4. Optional: Save images for your presentation from generated plots.
 
+---
+
+## **How to setup**
+
+1) Create a folder on your desktop and name it "extracted"
+2) Create 2 subfolders named:
+	"datasets"
+	"Python_code"
+3) On the datasets folder, extract all of the dataset in there.
+4) On the Python_code, extract these python codes:
+	"analysis.py"
+	"app.py"
+	"cleaning.py"
+	"data_loader.py"
+	"utils.py"
+	"visuals.py"
+
+5) Edit app.py
+	> modify the BASE_DATA_PATH
+	Note: You have to specify here the location path of datasets folder.
+		ex. BASE_DATA_PATH = Path(r"C:\Users\<username>\Desktop\extracted\datasets")
+
+   
 ---
 
 ## **Example Outputs**
@@ -59,10 +95,13 @@ The notebook produces:
 
 ---
 
-## **Notes**
+## **How to execute the codes**
 
-- Make sure the notebook paths match your folder structure if you move datasets.  
-- All outputs are saved in the notebook so they are visible directly on GitHub.
+1) Open CMD
+2) Type in "python C:\Users\<username>\Desktop\extracted\Python_code\app.py"
+3) You have to choose 1 first to load the datasets.
+4) You have to choose 2 to clean the datasets.
+5) Choose either 3 or 4 depending on what you want to do.
 
 ---
 
