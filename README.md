@@ -89,7 +89,7 @@ The notebook produces:
 ## **How to execute the codes**
 
 1) Open CMD
-2) Type in "python C:\Users\<username>\Desktop\extracted\Python_code\app.py"
+2) Type in "python C:\Users\ <username> \Desktop\extracted\Python_code\app.py"
 3) You have to choose 1 first to load the datasets.
 4) You have to choose 2 to clean the datasets.
 5) Choose either 3 or 4 depending on what you want to do.
