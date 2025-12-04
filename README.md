@@ -50,15 +50,6 @@ The analysis is intended for educational purposes and demonstrates data handling
 
 ---
 
-## **Instructions to Run**
-
-1. Open the notebook in [Google Colab](https://colab.research.google.com/).  
-2. Ensure all data files are uploaded (or in `data/` folder if paths are updated).  
-3. Run all cells (**Runtime → Run all**) to generate outputs and charts.  
-4. Optional: Save images for your presentation from generated plots.
-
----
-
 ## **How to setup**
 
 1) Create a folder on your desktop and name it "extracted"
