@@ -18,11 +18,6 @@ The analysis is intended for educational purposes and demonstrates data handling
 
 ---
 
-## **Files in this Repository**
-
-
----
-
 ## **Datasets**
 
 1. **geoMap.csv** – Contains LEGO sales data by country.  
