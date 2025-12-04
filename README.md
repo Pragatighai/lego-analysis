@@ -70,14 +70,13 @@ The analysis is intended for educational purposes and demonstrates data handling
 
 ## **Example Outputs**
 
-The notebook produces:
+The code produces:
 
 - Price distribution charts  
 - Average customer ratings per category  
 - Number of reviews and answered questions  
 - Insights into customer purchasing patterns  
 
-*(Optional: Add screenshots of charts here)*
 
 ---
 
