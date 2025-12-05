@@ -112,11 +112,11 @@ code to analyze the data that has been provided by our instructor and present it
 ---
 
 ## **Project Structure**
-The folder named "extracted" is the main folder.
-There is 2 subfolders inside the folder named "extracted"
-The 2 subfolders are "datasets" and "Python_code"
-The main python code is app.py and it will also run other python codes inside the "Python_code" folder each has its own role on the code.
-The python code will extract data from the "datasets" folder and it will do the process once it receive input from the user.
+- The folder named "extracted" is the main folder.
+- There is 2 subfolders inside the folder named "extracted"
+- The 2 subfolders are "datasets" and "Python_code"
+- The main python code is app.py and it will also run other python codes inside the "Python_code" folder each has its own role on the code.
+- The python code will extract data from the "datasets" folder and it will do the process once it receive input from the user.
 
 
 ---
@@ -124,19 +124,19 @@ The python code will extract data from the "datasets" folder and it will do the 
 ## **CRISP-DM process**
 A requirement for the project is also to show the implementation of the CRISP-DM process:
 
-Business Understanding
-Data Understanding
-Prepare Data
-Data Modeling(Optional)
-Analysis & Evaluation of Results
+- Business Understanding
+- Data Understanding
+- Prepare Data
+- Data Modeling(Optional)
+- Analysis & Evaluation of Results
 
 
 ---
 
-## **Author**
+## **Authors**
 
-Cyrus Gallardo
-Faiza Falul
-Pragati Ghai
-Praman Kaur
-Rahul Mahendra
+- Cyrus Gallardo
+- Faiza Falul
+- Pragati Ghai
+- Praman Kaur
+- Rahul Mahendra
