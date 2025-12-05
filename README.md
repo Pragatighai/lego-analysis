@@ -18,6 +18,16 @@ The analysis is intended for educational purposes and demonstrates data handling
 
 ---
 
+## **Questions of interest**
+
+1) What is the set that LEGO mostly produce?
+2) What are the top 10 LEGO sets of all time?
+3) What are the top 10 themes that LEGO produce?
+4) Is there any trends on the data?
+5) How many years did these themes existed?
+
+---
+
 ## **Datasets**
 
 1. **geoMap.csv** – Contains LEGO sales data by country.  
@@ -93,6 +103,40 @@ The code produces:
 
 ---
 
+## **Mini-Disclaimer**
+We have created this for our course project for Data Project Business Analysis. We do not work
+directly for LEGO and the python codes that has been uploaded here made available is just a
+prototype and it is not in its complete state. However, we have tried our best to create a python
+code to analyze the data that has been provided by our instructor and present it in class.
+
+---
+
+## **Project Structure**
+The folder named "extracted" is the main folder.
+There is 2 subfolders inside the folder named "extracted"
+The 2 subfolders are "datasets" and "Python_code"
+The main python code is app.py and it will also run other python codes inside the "Python_code" folder each has its own role on the code.
+The python code will extract data from the "datasets" folder and it will do the process once it receive input from the user.
+
+
+---
+
+## **CRISP-DM process**
+A requirement for the project is also to show the implementation of the CRISP-DM process:
+
+Business Understanding
+Data Understanding
+Prepare Data
+Data Modeling(Optional)
+Analysis & Evaluation of Results
+
+
+---
+
 ## **Author**
 
-Pragatighai
+Cyrus Gallardo
+Faiza Falul
+Pragati Ghai
+Praman Kaur
+Rahul Mahendra
